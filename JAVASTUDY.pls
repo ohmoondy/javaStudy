@@ -3,4 +3,6 @@ BEGIN
   NULL;
   
   --  test01
+  
+  --  test02
 END JAVASTUDY;
