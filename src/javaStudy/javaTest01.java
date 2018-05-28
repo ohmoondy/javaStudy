@@ -16,7 +16,7 @@ public class javaTest01 {
 		in_a.print_(in_);
 		
 		
-		//2018s³â ±Í¾ÆÆÄ...
+		//2018 ë…„ ê·€ì•„íŒŒ ..
 	}
 	
 	public void print_(int a_) {
